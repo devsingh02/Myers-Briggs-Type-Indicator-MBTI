@@ -1,2 +1,3 @@
 # Myers-Briggs-Type-Indicator-MBTI-
-Project on evaluating the Cognitive Functions based on mbti
+An attempt to combine my passion for psychology and computing.
+Enjoy!
